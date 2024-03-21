@@ -1,7 +1,11 @@
 body{
-    background-color:beige;
+    background-image: url("images/retrogame-quiz-bg.jpg");
 }
-
-.h1{
-    text-align:center;
+h1{
+    text-align: center;
+    color: black;
+}
+p {
+    font-weight: bold;
+    text-align: center;
 }
