@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: olive;
 }
 
 h1 {
@@ -12,5 +12,8 @@ h1 {
 p {
     font-weight: bold;
     font-size: larger;
+}
 
+footer {
+    background-color: rgb(2, 254, 2);
 }
