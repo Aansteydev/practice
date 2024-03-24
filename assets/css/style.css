@@ -3,10 +3,10 @@ body {
 }
 
 h1 {
+    color: darkred;
+    background-color: deepskyblue;
     text-align: center;
-    font-family: "Nosifer", sans-serif;
-    font-style: normal;
-    color: rgb(2, 254, 2);
+    font-family: "Orbitron",sans-serif;
 }
 
 p {
